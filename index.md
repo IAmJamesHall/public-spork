@@ -16,8 +16,8 @@ Also, I'm not perfect, and my notes aren't either. I'm sure there are typos & ev
 With that said, let's talk about how I organized the site. It's primarily wiki-style, so there's no central Table of Contents. Instead, I have scattered pages that are loosely pulled together using Maps Of Contents (MOCs). 
 
 Here are a few MOCs to start out with.
-[[MOC - Modern Philosophers]]
-[[MOC - Monarchs of England]]
+- [[MOC - Modern Philosophers]]
+- [[MOC - Monarchs of England]]
 
 Finally, special thanks to [notenote.link](https://github.com/Maxence-L/notenote.link) for providing the website code & [Obsidian](https://obsidian.md) for helping me organize my notes.
 
