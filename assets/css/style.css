@@ -265,7 +265,7 @@ hr {
     align-content: flex-end;
 }
 
-.site-heading h4 {
+.site-heading h5 {
     color: #555555;
     font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
