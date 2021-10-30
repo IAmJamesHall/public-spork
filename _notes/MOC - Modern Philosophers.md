@@ -1,5 +1,5 @@
 ---
-title: MOC: Modern Philosophers
+title: MOC - Modern Philosophers
 ---
 
 # Modern Philosophers 
