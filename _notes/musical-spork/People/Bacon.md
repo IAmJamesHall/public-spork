@@ -1,5 +1,6 @@
 ---
 title: Bacon
+tags: People
 ---
 # Francis Bacon
 

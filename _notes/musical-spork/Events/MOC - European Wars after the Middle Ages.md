@@ -1,3 +1,8 @@
+---
+tags: Events
+title: MOC - European Wars after the Middle Ages
+---
+
 # MOC - European Wars after the Middle Ages
 
 | Name                       | Year(s)   | Contenders | 

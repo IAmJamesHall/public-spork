@@ -1,5 +1,6 @@
 ---
 title: Charles I
+tags: People
 ---
 
 # Charles I of England

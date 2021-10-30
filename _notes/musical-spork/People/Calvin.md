@@ -1,5 +1,6 @@
 ---
 title: Calvin
+tags: People
 ---
 # John Calvin
 

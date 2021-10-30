@@ -1,4 +1,5 @@
 ---
+tags: People
 title: MOC - Monarchs of England
 ---
 

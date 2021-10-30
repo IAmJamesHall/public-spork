@@ -1,5 +1,6 @@
 ---
 title: Hobbes
+tags: People
 ---
 # Thomas Hobbes
 

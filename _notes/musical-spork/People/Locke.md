@@ -1,5 +1,6 @@
 ---
 title: Locke
+tags: People
 ---
 # John Locke
 - [[Two Treatises of Government]]

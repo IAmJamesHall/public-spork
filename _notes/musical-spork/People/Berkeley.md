@@ -1,5 +1,6 @@
 ---
 title: Berkeley
+tags: People
 ---
 # Berkeley
 

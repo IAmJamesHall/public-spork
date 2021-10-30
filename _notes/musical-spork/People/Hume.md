@@ -1,5 +1,6 @@
 ---
 title: Hume
+tags: People
 ---
 # David Hume
 

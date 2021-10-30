@@ -1,5 +1,6 @@
 ---
 title: James I
+tags: People
 ---
 
 # James I of England

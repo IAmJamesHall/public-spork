@@ -1,5 +1,7 @@
 ---
 title: Descartes
+tags: People
+
 ---
 # Rene Descartes
 

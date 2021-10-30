@@ -1,5 +1,6 @@
 ---
 title: Boyle
+tags: People
 ---
 # Robert Boyle
 

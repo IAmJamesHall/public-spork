@@ -1,5 +1,6 @@
 ---
 title: Aristotle
+tags: People
 ---
 # Aristotle
 
