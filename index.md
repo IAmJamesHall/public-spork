@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: Index
+permalink: /
 content-type: eg
 ---
 # Musical Spork
