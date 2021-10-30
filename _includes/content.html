@@ -2,7 +2,7 @@
 {%- if page.content-type == "notes" -%}
 <ul class="tags">
     {%- if page.etat != nil and page.etat != empty -%}
-    <li><a href="javascript:void(0)" class="tag"><b>État:</b> <i>{{page.etat | capitalize}}</i></a></li>
+    <li><a href="javascript:void(0)" class="tag"><b><- Back</b> <i>{{page.etat | capitalize}}</i></a></li>
     {%- endif -%}
     <!-- Loop through page categories and print them in tags -->
     {%- if page.tags != empty and page.tags !=nil -%}
