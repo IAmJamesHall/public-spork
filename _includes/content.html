@@ -7,7 +7,7 @@
     <!-- Loop through page categories and print them in tags -->
     {%- if page.tags != empty and page.tags !=nil -%}
     {%- for tag in page.tags -%}
-    <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
+    <li><a href="/toc/#{{ tag }}" class="tag">{{ tag }}</a></li>
     {%- endfor -%}
     {%- endif -%}
 </ul>
