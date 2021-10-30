@@ -38,6 +38,13 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 |               |           |                                                                           |
 
 
+### Timeline of Philosophical Works
+| Title                  | Author    | Published |  
+| ---------------------- | --------- | --------- | 
+| Freedom of a Christian | Luther    | 1520      | 
+| Meditations            | Descartes | 1641      | 
+
+
 ### Hobbes vs Locke
 ##### Regarding gov
 - Hobbes in favor of strong central gov

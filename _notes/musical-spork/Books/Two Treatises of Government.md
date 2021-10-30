@@ -1,4 +1,5 @@
 ---
+tags: Books
 title: Two Treatises of Government
 ---
 

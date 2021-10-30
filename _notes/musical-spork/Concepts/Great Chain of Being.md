@@ -1,4 +1,5 @@
 ---
+tags: Concepts
 title: Great Chain of Being
 ---
 

@@ -1,4 +1,5 @@
 ---
+tags: Books
 title: Resolutions of Jonathan Edwards
 ---
 

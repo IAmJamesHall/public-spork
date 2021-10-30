@@ -1,4 +1,5 @@
 ---
+tags: Books
 title: The Chastity of the Intellect
 ---
 

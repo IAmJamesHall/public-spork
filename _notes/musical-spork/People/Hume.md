@@ -28,7 +28,7 @@ Hume tells us he is applying Newton experimental method to the mind
 
 
 #### Bringing Ideal Theory to its logical conclusions
-- impressions and ideas are th eonly thing that exists in the mind
+- impressions and ideas are the only thing that exists in the mind
 - constant conjunction
 - cause & effect are only in the mind
 - [[Solipsism]]

@@ -1,4 +1,5 @@
 ---
+tags: Books
 title: Meditations of First Philosophy, Descartes
 ---
 

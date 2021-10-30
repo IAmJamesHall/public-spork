@@ -38,3 +38,4 @@ tags: People
 	1. everything is relative
 11. Reason is manipulating existing ideas
 12. Thinking = recalling & manipulating existing ideas
+13. SIDE NOTE: In crafting his idea of the State of Nature, Locke did not think it necessary to rely on the senses

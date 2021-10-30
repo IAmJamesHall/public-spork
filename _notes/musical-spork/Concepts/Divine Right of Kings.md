@@ -1,4 +1,5 @@
 ---
+tags: Concepts
 title: Divine Right of Kings
 ---
 

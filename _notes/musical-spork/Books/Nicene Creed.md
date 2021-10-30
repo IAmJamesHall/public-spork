@@ -1,4 +1,5 @@
 ---
+tags: Books
 title: Nicene Creed
 ---
 [English Versions of the Nicene Creed](https://en.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed)
