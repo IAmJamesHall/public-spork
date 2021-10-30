@@ -1,3 +1,7 @@
+---
+title: James I
+---
+
 # James I of England
 
 - was James VI of Scotland (r. 1603-1625)

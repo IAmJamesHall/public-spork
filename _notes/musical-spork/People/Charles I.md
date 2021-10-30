@@ -1,3 +1,7 @@
+---
+title: Charles I
+---
+
 # Charles I of England
 
 - Father: [[James I]]
