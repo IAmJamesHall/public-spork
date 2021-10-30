@@ -1,5 +1,5 @@
 ---
-title: Rene Descartes
+title: Descartes
 ---
 
 # Rene Descartes
