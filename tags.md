@@ -1,7 +1,7 @@
 ---
 layout: post
-title: By Tags
-permalink: /tags/
+title: Index
+permalink: /index/
 content-type: eg
 ---
 
