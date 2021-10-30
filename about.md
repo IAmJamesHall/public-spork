@@ -4,11 +4,20 @@ title: About
 permalink: /about/
 content-type: eg
 ---
+Welcome to Musical Spork, my working repository of notes. I'm currently in an intensive liberal arts course at [Gutenberg College](https://gutenberg.edu), and as an aid to myself and my classmates, I decided to make some of my notes public.
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
+**Disclaimer**: Be aware that this is very much a work in progress. You may find broken links or empty notes. 
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
+Also, every page on this site is incomplete, because I will be adding to it and restructuring as I learn. So, don't expect it to stay the same. 
 
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
+Also, I'm not perfect, and my notes aren't either. I'm sure there are typos & even factual errors in these pages. If you do notice something, feel free to email me at [musical-spork@jameshall.xyz](mailto:musical-spork@jameshall.xyz). 
 
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
+With that said, let's talk about how I organized the site. It's primarily wiki-style, so there's no central Table of Contents. Instead, I have scattered pages that are loosely pulled together using Maps Of Contents (MOCs). 
+
+Here are a few MOCs to start out with.
+[[MOC - Modern Philosophers]]
+[[MOC - Monarchs of England]]
+
+Finally, special thanks to [[notenote.link::https://github.com/Maxence-L/notenote.link]] for providing the website code & [Obsidian](https://obsidian.md) for helping me organize my notes.
+
+-James Hall
