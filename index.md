@@ -18,7 +18,7 @@ With that said, let's talk about how I organized the site. It's primarily wiki-s
 Here are a few MOCs to start out with.
 - [[MOC - Modern Philosophers]]
 - [[MOC - Monarchs of England]]
-
+- [[MOC - European Wars after the Middle Ages]]
 Finally, special thanks to [notenote.link](https://github.com/Maxence-L/notenote.link) for providing the website code & [Obsidian](https://obsidian.md) for helping me organize my notes.
 
 -James Hall
