@@ -13,12 +13,14 @@ Also, every page on this site is incomplete, because I will be adding to it and 
 
 Also, I'm not perfect, and my notes aren't either. I'm sure there are typos & even factual errors in these pages. If you do notice something, feel free to email me at [musical-spork@jameshall.xyz](mailto:musical-spork@jameshall.xyz). 
 
-With that said, let's talk about how I organized the site. It's primarily wiki-style, so there's no central Table of Contents. Instead, I have scattered pages that are loosely pulled together using Maps Of Contents (MOCs). 
+With that said, let's talk about how I organized the site. It's primarily wiki-style, but I do have a central [Table of Contents](/toc). Also, I have loosely collected scattered pages into Maps of Contents (MOCs).
 
 Here are a few MOCs to start out with.
 - [[MOC - Modern Philosophers]]
 - [[MOC - Monarchs of England]]
 - [[MOC - European Wars after the Middle Ages]]
+
+
 Finally, special thanks to [notenote.link](https://github.com/Maxence-L/notenote.link) for providing the website code & [Obsidian](https://obsidian.md) for helping me organize my notes.
 
 -James Hall

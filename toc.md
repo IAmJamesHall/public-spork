@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Table of Contents
-permalink: /toc/
+permalink: /toc
 content-type: eg
 ---
 
