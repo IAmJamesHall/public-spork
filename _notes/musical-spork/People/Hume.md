@@ -2,7 +2,10 @@
 title: Hume
 tags: People
 ---
+
 # David Hume
+
+Wrote [[Enquiry Concerning Human Understanding]]
 
 ### Bkgrd Info
 - 1711-1776
@@ -34,3 +37,5 @@ Hume tells us he is applying Newton experimental method to the mind
 - [[Solipsism]]
 - philosophy is not useful for living life
 	- custom & habit is how we live life (social experience)
+	
+	

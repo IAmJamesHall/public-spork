@@ -1,5 +1,5 @@
 ---
-tags: People
+tags: MOC
 title: MOC - Modern Philosophers
 ---
 
@@ -28,6 +28,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 
 
 ### Timeline of Philosophers
+
 | Name          | Dates     | Philosophy                                                                |
 | ------------- | --------- | ------------------------------------------------------------------------- |
 | [[Descartes]] | 1596-1650 | claims to make a whole new start in philosophy                            |
@@ -39,10 +40,17 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 
 
 ### Timeline of Philosophical Works
-| Title                  | Author    | Published |  
-| ---------------------- | --------- | --------- | 
-| Freedom of a Christian | Luther    | 1520      | 
-| Meditations            | Descartes | 1641      | 
+
+| Title                         | Author        | Published |
+| ----------------------------- | ------------- | --------- |
+| Freedom of a Christian        | [[Luther]]    | 1520      |
+| Meditations                   | [[Descartes]] | 1641      |
+| Institutes                    | [[Calvin]]    | 1536      |
+| Novum Organum                 | [[Bacon]]     | 1620      |
+| Vacuum Experiments            | [[Pascal]]    | 1663      |
+| [[Leviathan]]                 | [[Hobbes]]    | 1651      |
+| Second Essay of Government    | [[Locke]]     | 1690      |
+| Enquiry - Human Understanding | [[Hume]]      | 1739      |
 
 
 ### Hobbes vs Locke

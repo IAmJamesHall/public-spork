@@ -1,5 +1,5 @@
 ---
-tags: Events
+tags: MOC
 title: MOC - European Wars after the Middle Ages
 ---
 
