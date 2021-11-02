@@ -1,7 +1,7 @@
 ---
 layout: post
-title: By Tags
-permalink: /tags/
+title: Table of Contents
+permalink: /toc
 content-type: eg
 ---
 
@@ -18,6 +18,7 @@ content-type: eg
 </style>
 
 <main>
+    <h2>Table of Contents</h2>
     {% assign tags =  site.notes | map: 'tags' | join: ' '  | split: ' ' | uniq %}
     {% for tag in tags %}
         <h3 id="{{ tag }}">{{ tag | capitalize }}</h3>

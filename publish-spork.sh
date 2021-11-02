@@ -1,5 +1,5 @@
 rm -r ~/public-spork/_notes/musical-spork/
-cp -r ~/musical-spork/ ~/public-spork/_notes
+cp -r ~/musical-spork ~/public-spork/_notes/
 rm ~/public-spork/_notes/musical-spork/.* -rf
 cd ~/public-spork
 git add *
