@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4ece95e4d9adb951",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Books/Enquiry Concerning Human Understanding.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "71b065d9cff4dd27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Reason.md",
+            "file": "Maps of Content/MOC - Art Periods.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4ce15203c7682ec3"
+      },
+      {
+        "id": "aef71677b3d0bfa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maps of Content/MOC - Art Periods.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4ce15203c7682ec3"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Reason.md",
+                "file": "Maps of Content/MOC - Art Periods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "71b065d9cff4dd27",
   "lastOpenFiles": [
+    "Maps of Content/MOC - Art Periods.md",
+    "Art/Renaissance Art.md",
+    "Art/Baroque Art.md",
+    "Art/Mannerist Art.md",
+    "Maps of Content/MOC - European Wars after the Middle Ages.md",
     "Concepts/Reason.md",
     "Books/Enquiry Concerning Human Understanding.md",
     "People/Hume.md",
     "People/MOC - Modern Philosophers.md",
-    "People/MOC - Monarchs of England.md",
-    "People/Oliver Cromwell.md",
-    "People/Locke.md",
-    "Literature/Two Treatises of Government.md",
-    "Great Conversation.md",
-    "Concepts/Government.md"
+    "People/MOC - Monarchs of England.md"
   ]
 }
