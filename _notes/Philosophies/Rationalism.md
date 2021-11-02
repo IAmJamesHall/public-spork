@@ -1,0 +1,4 @@
+---
+tags: Philosophies
+title: Rationalism
+---

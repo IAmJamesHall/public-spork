@@ -1,0 +1,46 @@
+---
+title: Hume
+tags: People
+---
+
+# David Hume
+
+Wrote [[Enquiry Concerning Human Understanding]]
+
+### Bkgrd Info
+- 1711-1776
+- Scottish
+- studied law at 15, did not like it
+- self-taught in philosophy
+- published "Treatise of Human Understanding" at age 28
+	- thought it would make him a rock star like Newton.
+	- received little attention
+	- [[Reid]] & [[Kant]] were the only philosophers who took him seriously
+
+
+
+### His Philosophy
+#### What was in the air
+1. the rationalism and deduction of [[Descartes]]
+2. [[Newton]] - test experimentally
+3. [[Empiricism]]
+4. Relgious wars
+5. [[Skepticism]]
+
+Hume tells us he is applying Newton experimental method to the mind
+
+What does Hume think [[Reason]] is?
+
+
+#### Bringing Ideal Theory to its logical conclusions
+- impressions and ideas are the only thing that exists in the mind
+- constant conjunction
+	- "after the constant conjunction of two objects, heat and falme, for instance...we are determined by custom alone to expect the one from the appearance fo the other." -Ch 5, para 5 [[Enquiry Concerning Human Understanding]]
+- cause & effect are only in the mind
+	- there is some underlying, unknowable force that is behind the cause/effect
+- cause & effect are not based in reason; we only know them through experience of constant conjunction (senses, memory)
+- [[Solipsism]]
+- philosophy is not useful for living life
+	- custom & habit is how we live life (social experience)
+	
+	
