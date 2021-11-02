@@ -35,12 +35,19 @@ What does Hume think [[Reason]] is?
 #### Bringing Ideal Theory to its logical conclusions
 - impressions and ideas are the only thing that exists in the mind
 - constant conjunction
-	- "after the constant conjunction of two objects, heat and falme, for instance...we are determined by custom alone to expect the one from the appearance fo the other." -Ch 5, para 5 [[Enquiry Concerning Human Understanding]]
+	- I have experienced these things together in the past, so I expect them together in the future
+	- "after the constant conjunction of two objects, heat and flame, for instance...we are determined by custom alone to expect the one from the appearance fo the other." -Ch 5, para 5 [[Enquiry Concerning Human Understanding]]
+	- works well for ordinary life, but not so well for extraordinary things like [[Miracles]]
 - cause & effect are only in the mind
 	- there is some underlying, unknowable force that is behind the cause/effect
 - cause & effect are not based in reason; we only know them through experience of constant conjunction (senses, memory)
 - [[Solipsism]]
 - philosophy is not useful for living life
 	- custom & habit is how we live life (social experience)
+- Hume couldn't say that because there is a creation, there must be a creator
+	- I didn't sense the creation of it, so I can't assume that it happened
+- very impericist
+	- every idea must come from an impression
+- Hume downplays the impact of his position
 	
 	

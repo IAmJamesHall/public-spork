@@ -32,12 +32,12 @@ protestant baroque - introspective, epistemological
 
 
 ### Examples
-- [Bernini David](https://en.wikipedia.org/wiki/File:Galleria_Borghese_42.jpg)
+- [Bernini's David](https://en.wikipedia.org/wiki/File:Galleria_Borghese_42.jpg)
 - [St Peter's Basilica](https://en.wikipedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)
 - **Elevation of the Cross**
-	- [Rembrandt (Protestant)](https://billmuehlenberg.com/2019/09/08/the-raising-of-the-cross/)
-	- [Ruben (Catholic)](https://en.wikipedia.org/wiki/File:Rubens_-_The_Raising_of_the_Cross.jpg)
-- [Still Life with Tozza (Claesz)](https://artsandculture.google.com/asset/still-life-with-tazza/vwFIXRX59JDLUw)
+	- [Rembrandt's (Protestant)](https://billmuehlenberg.com/2019/09/08/the-raising-of-the-cross/)
+	- [Ruben's (Catholic)](https://en.wikipedia.org/wiki/File:Rubens_-_The_Raising_of_the_Cross.jpg)
+- [Claesz's Still Life with Tozza](https://artsandculture.google.com/asset/still-life-with-tazza/vwFIXRX59JDLUw)
 	- caught in the middle of eating
 	you don't know when you'll be called away
 
