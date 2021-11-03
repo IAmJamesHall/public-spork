@@ -4,6 +4,7 @@ tags: Art
 ---
 
 # Renaissance Art
+c. 1350-1620
 
 ##### Examples
 [Mona Lisa](https://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
