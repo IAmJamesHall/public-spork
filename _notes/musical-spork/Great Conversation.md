@@ -8,3 +8,6 @@ title: Great Conversation
 - Star Wars (Joseph Campbell)
 - Plato's Dialogues
 - Animal Farm
+
+
+*What does this concept have to do with that concept?*

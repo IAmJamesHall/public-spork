@@ -11,12 +11,22 @@ title: Reason
 			- in this case, can an animal think?
 	- what is reason?
 		- a type of thinking?
-- Descartes makes heavy use of reason in his [[Meditations of First Philosophy, Descartes]]
+- can you only accept what has been proven by reason?
+- reason is like a telescope: it lets us see things clearer; but it must have something to point at (analogy loosely taken from [[Inquiry & Essays]], pg 58)
+- Descartes makes heavy use of reason in his [[Meditations of First Philosophy]]
 
 - what is reason?
 	- knowing something w/o experience
 	- not just logic
-	- can you allow for probabilities
+	- can you allow for probabilities in reasoning?
+
+*when does Reason override [[Common Sense]]?? ([[Reid]])*
+- According to Boyle?, vacuum is contrary to common sense
+
+### Diff types of Reasoning
+- induction
+- deduction
+- [abduction](https://meinong.stanford.edu/entries/abduction/)
 
 ### Is man essentially a rational animal?
 Hume places less emphasis on man's rationality, and more on intuitive custom.

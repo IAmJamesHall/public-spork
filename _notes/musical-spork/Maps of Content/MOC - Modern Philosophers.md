@@ -15,7 +15,7 @@ title: MOC - Modern Philosophers
 
 
 ### New Paradigm
-- the church is no longer the authority: **science is the authority**
+- starting with the Renaissance, the church is no longer the authority: **science is the authority**
 - philosophy's goal is to justify the new epistemology of science
 - when epistemology becomes individual, [[Skepticism]] abounds
 - philosophers all asking "how do we know what's true? does science lead to truth?"
@@ -33,7 +33,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | ------------- | --------- | ------------------------------------------------------------------------- |
 | [[Luther]]    | 1483-1546 |                                                                           |
 | [[Calvin]]    | 1509-1564 |                                                                           |
-| [[Bacon]]     | 1561-1626 | very empericist                                                           |
+| [[Bacon]]     | 1561-1626 | very empiricist                                                           |
 | [[Hobbes]]    | 1588-1679 |                                                                           |
 | [[Descartes]] | 1596-1650 | claims to make a whole new start in philosophy                            |
 | [[Pascal]]    | 1623-1662 |                                                                           |
@@ -43,19 +43,20 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Hume]]      | 1711-1776 | took ideal theory to its logical conclusion                               |
 
 
+
 ### Timeline of Philosophical Works
 
-| Title                         | Author        | Published |
-| ----------------------------- | ------------- | --------- |
-| Freedom of a Christian        | [[Luther]]    | 1520      |
-| Institutes                    | [[Calvin]]    | 1536      |
-| Novum Organum                 | [[Bacon]]     | 1620      |
-| Meditations                   | [[Descartes]] | 1641      |
-| [[Leviathan]]                 | [[Hobbes]]    | 1651      |
-| Vacuum Experiments            | [[Pascal]]    | 1663      |
-| Second Essay of Government    | [[Locke]]     | 1690      |
-| Enquiry - Human Understanding | [[Hume]]      | 1739      |
-| Inquiry & Essays              | [[Reid]]      | 1764      | 
+| Title                                      | Author        | Published |
+| ------------------------------------------ | ------------- | --------- |
+| Freedom of a Christian                     | [[Luther]]    | 1520      |
+| Institutes                                 | [[Calvin]]    | 1536      |
+| Novum Organum                              | [[Bacon]]     | 1620      |
+| [[Meditations of First Philosophy]]        | [[Descartes]] | 1641      |
+| [[Leviathan]]                              | [[Hobbes]]    | 1651      |
+| Vacuum Experiments                         | [[Pascal]]    | 1663      |
+| [[Two Treatises of Government]]            | [[Locke]]     | 1690      |
+| [[Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
+| [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
 
 
 ### Hobbes vs Locke
@@ -74,3 +75,13 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 	- we discover morality through reason
 	- we are naturally at State of Nature, but can move to State of War
 	- private property: labor adds to an object to make it yours
+
+
+### Descartes to Hume
+- certainty is the golden snitch in the philosophical game of quittage
+- in the medieval period, certainty was Aristotle & religious dogma, hammered in
+- many thought that Descartes had caught it
+- then [[Newton]] appeared to have it
+- is certainty a good criterion for [[Knowledge]]?
+
+

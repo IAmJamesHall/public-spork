@@ -1,6 +1,6 @@
 ---
 tags: Books
-title: Meditations of First Philosophy, Descartes
+title: Meditations of First Philosophy
 ---
 
 # Meditations of First Philosophy

@@ -32,6 +32,18 @@ Hume tells us he is applying Newton experimental method to the mind
 What does Hume think [[Reason]] is?
 
 
+#### Cause & Effect
+There may be cause & effect, but we can't know what it is or if it is.
+
+
+#### First Principles
+Everything in the mind is either impressions or ideas.
+- "All the perceptions of the human mind resolve themselves into two distinct kinds, which I shall call impressions and ideas." - first sentence of Hume's Treatise
+- idea is just a copy of the impression
+- we can make assocations/operations on ideas (math)
+
+
+
 #### Bringing Ideal Theory to its logical conclusions
 - impressions and ideas are the only thing that exists in the mind
 - constant conjunction
@@ -46,7 +58,7 @@ What does Hume think [[Reason]] is?
 	- custom & habit is how we live life (social experience)
 - Hume couldn't say that because there is a creation, there must be a creator
 	- I didn't sense the creation of it, so I can't assume that it happened
-- very impericist
+- very empericist
 	- every idea must come from an impression
 - Hume downplays the impact of his position
 	

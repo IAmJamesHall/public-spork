@@ -11,7 +11,7 @@ Written by David [[Hume]]
 - moral philosophy = science of human nature
 	- 2 types:
 		- 1) treats man as an active, emotional thing; makes us "feel the diff" between virtue & vice; deals w/ practical actions
-		- 2) treats man as a reasoning thing; tries to empirically find a rational foundation for morals, reason, & criticism; deals w/ ...
+		- 2) treats man as a reasoning thing; tries to empirically find a rational foundation for morals, [[Reason]], & criticism; deals w/ ...
 
 ### Book Summary (by paragraphs)
 - 1) two types of philosophy (practical & metaphysical), and even though the metaphysical is hard and treacherous, it is worth pursuing
@@ -86,14 +86,14 @@ Written by David [[Hume]]
 	- 22) I don't think I'm being arrogant in making these claims
 	- 23) there must be something other than ration that leads us from cause to effect
 - 5) belief vs fiction; sensing one thing brings coorelatives into focus; the thing that connects ideas is custom, not reason
-	- 1) 	most philosophies lead to selfishness, but not the skeptical philosophy
-	- 2) 	but it also makes enemies
-	- 3) 	but fear not, this abstract philosophy will always be subordinate to nature, which is active
-	- 4) 	even the strongest reasoner cannot reason about matters of fact
-	- 5) 	some principle--not reason--makes one decide on cause & effect
-	- 6) 	to understand cause/effect, we infer from experience b/c of custom
-	- 7) 	every inference is based on a fact in the memory or senses
-	- 8) 	all matters of fact come from the senses & experienced conjunctions
+	- 1) most philosophies lead to selfishness, but not the skeptical philosophy
+	- 2) but it also makes enemies
+	- 3) but fear not, this abstract philosophy will always be subordinate to nature, which is active
+	- 4) even the strongest reasoner cannot reason about matters of fact
+	- 5) some principle--not reason--makes one decide on cause & effect
+	- 6) to understand cause/effect, we infer from experience b/c of custom
+	- 7) every inference is based on a fact in the memory or senses
+	- 8) all matters of fact come from the senses & experienced conjunctions
 	- 9) we must explain further
 	- 10) the mind can construct whatever imagination it likes out of existing ideas, but it will not actually **believe** its fictions
 	- 11) the difference to us between fiction & something we know is a sentiment
