@@ -19,14 +19,24 @@ title: Reason
 	- knowing something w/o experience
 	- not just logic
 	- can you allow for probabilities in reasoning?
+	
+
+
+
+*can reason be used to resolve disputes?*
+- because everyone has different starting points, do arguments have to be intuitive/inductive, as opposed to deductive?
 
 *when does Reason override [[Common Sense]]?? ([[Reid]])*
 - According to Boyle?, vacuum is contrary to common sense
 
+
+*what is the end of reason?*
+
+
 ### Diff types of Reasoning
 - induction
 - deduction
-- [abduction](https://meinong.stanford.edu/entries/abduction/)
+- [abduction](https://meinong.stanford.edu/entries/abduction)
 
 ### Is man essentially a rational animal?
 Hume places less emphasis on man's rationality, and more on intuitive custom.
@@ -35,3 +45,6 @@ Speaking of intuitive custom ([[Enquiry Concerning Human Understanding\|Enquiry]
 > This operation of the mind, by which we infer like effects from like causes, and vice versa, is so essential to the subsistence of all human creatures, it is not probably, that it could be trusted to the fallacious deductions of our reason, which is slow in its operations; appears not, in any degree, during the first years of infancy; and at best is, in every age and period of human life, extremely liable to error and mistake.
 
 
+
+### Does Reason actually lead toward truth?
+- When independent reason in Europe became more accepted in the Enlightenment, Europe moved to become atheistic.

@@ -96,7 +96,7 @@ Written by David [[Hume]]
 	- 8) all matters of fact come from the senses & experienced conjunctions
 	- 9) we must explain further
 	- 10) the mind can construct whatever imagination it likes out of existing ideas, but it will not actually **believe** its fictions
-	- 11) the difference to us between fiction & something we know is a sentiment
+	- 11) the difference to us between fiction & something we believe is a sentiment
 	- 12) that feeling (^) is belief
 	- 13) belief is just a stronger conception than fiction
 	- 14) sensing one thing brings its coorelative into sharper focus than before
