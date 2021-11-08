@@ -20,7 +20,7 @@ protestant baroque - introspective, epistemological
 - strong light / dark contrast
 
 ### What made it happen?
-- Europe discoverefd the Americas
+- Europe discovered the Americas
 	- brought tremendous wealth: gold, luxury
 - [[Reformation]]
 	- Catholic aesthetic response

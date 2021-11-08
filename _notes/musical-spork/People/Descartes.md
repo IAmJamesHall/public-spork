@@ -22,3 +22,10 @@ tags: People
 - fought in [[Thirty Years War]]
 - contemporary of [[Galileo]]
 - invented longitude / latitude, [[non-Euclidean geometry]]
+
+
+### Knowledge
+- "we cannot attain to a perfect knowledge in any such case of probably opinion" (For the Direction of the Mind, rule 2)
+- arithmetic & geometry are the only knowledge that are "free from any taint of falsity or uncdertainty" (ibid)
+- two ways to arrive at true knowledge: intuition & induction (ibid, rule 3)
+- belief & faith are more certaint than the surest knowledge, because they are an act of the will, not the intelligence
