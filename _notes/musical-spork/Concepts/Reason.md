@@ -36,7 +36,7 @@ title: Reason
 ### Diff types of Reasoning
 - induction
 - deduction
-- [abduction](https://meinong.stanford.edu/entries/abduction)
+- [abduction](https://plato.stanford.edu/entries/abduction)
 
 ### Is man essentially a rational animal?
 Hume places less emphasis on man's rationality, and more on intuitive custom.
