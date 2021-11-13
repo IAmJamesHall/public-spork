@@ -10,9 +10,15 @@ Wrote [[What is Enlightenment?]]
 ### Background
 - came from Prussia, wrote under Frederick the Great
 - Kant - a rationalist who wants to confine reason to the bounds of experience
-	- reason is bound by the conditio of possible experience; cannot reason about unexperienced things
+	- reason is bound by the condition of possible experience; cannot reason about unexperienced things
 	- so, we can't reason a/b God crating the world because we didn't experience it
 - believes ethics to be duty to rules
+- enamored with Liebniz until he read [[Hume]]; found Liebniz to be incomplete
+- what is the nature of reason & what can/can not be done w/ it
+- Trying to defend science
+	- If [[Newton]] is right, then everything is determined. So there must be some underlying noumena below the phenomena
+	- but we also can't talk a/b noumena
+	- if we don't assume the existence of a rational [[God]] who made a rational universe, why would we assume that our mind can coorespond to reality? All we can know is that it works for us.
 
 ### Major Works
 - Epistemology & Metaphysics
@@ -33,7 +39,8 @@ Wrote [[What is Enlightenment?]]
 	- Establish X as the necessary conditions for the possibility of Y
 	- Then, since Y exists, X must be the case
 - **Phenomena** - things as I experience them, appearances of things
-- **Noumena** - things as they are in themselves (we cannot know noumena)
+- **Noumena** - things as they are in themselves (we cannot know noumena, we can only say that they exist)
+	- *but if we can't experience these, why should we say they exist?*
 - The **Categorical Imperative** - Kant's moral principle (internal reason; not external authority)
 	- Act only in ways that everyone could act, ways that don't make exceptions for yourself
 	- Or, respect the rationality or others, their ability to set their own goals

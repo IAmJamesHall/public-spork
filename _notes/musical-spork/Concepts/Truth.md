@@ -26,6 +26,7 @@ tags: Concepts
 - what is knowledge?
 	- can you have certain knowledge? about matters of fact?
 - is it better to have the freedom to imperfectly pursue truth on one's own than to be given the truth fully digested
+- is truth a form you can know, or are there many truths to know?
 
 
 ### Mentions in the Bible

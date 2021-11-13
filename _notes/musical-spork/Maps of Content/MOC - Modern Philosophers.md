@@ -41,6 +41,8 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Berkeley]]  | 1685-1753 | writing against material science; everything an idea in the mind of God   |
 | [[Reid]]      | 1710-1796 | common sense philosopher who responded to ideal theory                    |
 | [[Hume]]      | 1711-1776 | took ideal theory to its logical conclusion                               |
+| [[Kant]]      | 1724-1804 |                                                                           |
+
 
 
 

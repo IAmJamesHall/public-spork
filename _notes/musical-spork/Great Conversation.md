@@ -13,3 +13,5 @@ title: Great Conversation
 
 
 *What does this concept have to do with that concept?*
+
+*How shall we live?* - how important is this question in philosophy?
