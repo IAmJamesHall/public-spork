@@ -4,7 +4,7 @@ tags: Concepts
 ---
 
 # Truth
-> "What is truth" - Pontius Pilate
+> "What is truth?" - Pontius Pilate
 
 ### Hume on Truth
 #### Times He Mentioned Truth

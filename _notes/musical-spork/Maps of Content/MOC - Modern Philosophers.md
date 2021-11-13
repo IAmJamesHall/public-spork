@@ -58,6 +58,32 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
 | [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
 
+### Rationalists vs Empiricists
+#### Rationalists
+- **[[Descartes]]**
+	- you can know everything through intellect, not senses
+	- prove things a/b soul, God
+- **[[Spinoza]]**
+	- few premises
+	- God is the only substance
+	- soul + body are not separate
+- **[[Leibniz]]**
+	- everything is made of monads that don't interact w/ each other
+	- a pre-established harmony simulates cause/effect
+	- proof for God
+	- we live in the best of all possible worlds
+	
+#### Empiricsts
+Becoming increasingly skeptical
+- **[[Locke]]**
+	- mind = blank slate
+- **[[Berkeley]]**
+	- idealist - only real things are ideas in a mind (mine or Gods)
+- **[[Hume]]**
+	- all ideas from impressions
+	- causation - habit
+
+
 
 ### Hobbes vs Locke
 ##### Regarding gov

@@ -21,7 +21,7 @@ title: Shakespeare
 
 
 ### Notes
-- actors - same category as vagrants, prostitutes
+- actors - same status as vagrants, prostitutes
 	- so playing groups had to be attached to a vouching nobleman, or they'd be whipped
 - Mystery plays - annual; morality plays
 - "liberties" - plots of land in London that were free from the city's laws (b/c they used to house monasteries, etc)
