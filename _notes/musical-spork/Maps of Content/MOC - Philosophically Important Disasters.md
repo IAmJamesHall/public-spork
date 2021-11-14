@@ -9,7 +9,7 @@ tags: MOC
 - Earthquake at Lisbon
 - Plague (Thucydides)
 - 30 Years War
-- COVID-10
+- COVID-19
 
 ### What happened
 
