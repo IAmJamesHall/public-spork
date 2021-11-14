@@ -1,6 +1,6 @@
 ---
 title: Hume Term Paper
-tags: My-Papers
+tags: Delvings
 ---
 
 # Hume Term Paper

@@ -1,6 +1,6 @@
 ---
 title: Ptolemy - Method of Science
-tags: My-Papers
+tags: Delvings
 ---
 
 # Ptolemy - Method of Science
