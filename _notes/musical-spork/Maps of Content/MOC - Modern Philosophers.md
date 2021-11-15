@@ -41,6 +41,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Berkeley]]  | 1685-1753 | writing against material science; everything an idea in the mind of God   |
 | [[Reid]]      | 1710-1796 | common sense philosopher who responded to ideal theory                    |
 | [[Hume]]      | 1711-1776 | took ideal theory to its logical conclusion                               |
+| [[Smith]]     | 1723-1790 |                                                                           |
 | [[Kant]]      | 1724-1804 |                                                                           |
 
 
@@ -59,6 +60,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Two Treatises of Government]]            | [[Locke]]     | 1690      |
 | [[Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
 | [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
+| [[Wealth of Nations]]                      | [[Smith]]     | 1776      | 
 
 ### Rationalists vs Empiricists
 #### Rationalists

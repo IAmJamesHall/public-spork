@@ -6,6 +6,7 @@ tags: People
 # David Hume
 
 Wrote [[Enquiry Concerning Human Understanding]]
+Wrote a History of England
 
 ### Bkgrd Info
 - 1711-1776
