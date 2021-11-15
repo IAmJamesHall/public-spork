@@ -61,5 +61,9 @@ Everything in the mind is either impressions or ideas.
 - very empericist
 	- every idea must come from an impression
 - Hume downplays the impact of his position
+
+
+#### Math
+For his philosophy on math, see my paper in Delvings: [[Hume - Final Paper]]
 	
 	

@@ -1,21 +1,40 @@
 ---
-title: Hume Term Paper
+title: Hume - Notes & Questions
 tags: Delvings
+toc: true
 ---
 
 # Hume Term Paper
-### State of the Paper
+## New Proposed Thesis
 
-Because the original thesis now seems very uncontestable, I propose we instead discuss what he thinks of the foundation of Mathematics
+- **Question**: what does he mean by "math" and how can he claim that math is true?
+  - There is an underlying principle that nature has inlaid
+  - is math true because it cooresponds to that underlying principle, or because it is internally consistent?
+    - math is internally consistent, and it also seems to explain things that the principle does, but it can't be used to discover that principle
+  - he states that [[Euclid]] demonstrated "truths" (4.1)
+  - if we can only know truths about math, etc, can we not know truths about our own world?
+- **Outline**
+  - **Thesis**: When Hume says "math", he is referring to an internally consistent system of reasoning, and when he claims that it is true, he is claiming  that it is true to itself, not necessarily to our experience.
+  - Math = an "affirmation, which is either intuitively or demonstratively certain" (4.1)
+    - internally consistent reasoning
+    - it's a system that does not necessarily coincide with our world (if there never were a circle, this system would still work, etc.)
+    - even though math is its own separate system, its conclusions can still coorespond w/ our system (mixed, applied mathematics) (4.13)
+    - but is mixed math as "true" as pure math is? **no**
+      - it's based on experience of the underlying principles, not pure reason
+      - but we can somewhat know the underlying principles, but without certainty
+        -  There is an underlying principle behind what we sense in nature (lots of evidence for this)
+  - what about non-Euclidean geometry?
+  - I haven't read much Hume
 
-  - he states that Euclid demonstrated "truths" (4.1)
-  - and in Sec 4, he says that math is based on the assumption that there are inlaid laws in nature (4.13)
 
 
 
 
 
-## Proposed Thesis
+
+
+
+## Old Proposed Thesis
 
 **Problem**: Towards the end of paragraph 22 of Section 5, Hume makes a statement that seems to undermine his previous arguments. He seems to say that nature has created a course among our thinking that corresponds with the course of the external objects.
 
@@ -29,14 +48,7 @@ Because the original thesis now seems very uncontestable, I propose we instead d
   - has nature implanted a natural course among external objects?
   - can we know that our ideas of cause/effect follow that course as well?
 
-### My Argument
 
-- **Question**: what does he mean by "math" and how can he claim that math is true?
-  - There is an underlying principle that nature has inlaid
-  
-  - is math true because it cooresponds to that underlying principle, or because it is internally consistent?
-  
-    
 
 ### Notes
 
