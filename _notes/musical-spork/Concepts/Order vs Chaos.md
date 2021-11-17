@@ -24,3 +24,7 @@ There is a scale between order and chaos
 	- [[Nietzche]]: Napoleon imposed order
 	- Postmoderns
 	- 
+	
+	Expectation of order in science is a metaphysical claim
+		- Copernicus built his theory off order
+		- string theory is based on the elegance of its math 

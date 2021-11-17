@@ -1,6 +1,6 @@
 ---
 title: Smith
-tags: People.Philosophers
+tags: People
 ---
 
 # Adam Smith
