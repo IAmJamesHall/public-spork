@@ -9,7 +9,7 @@ tags: MOC
 - Earthquake at Lisbon
 - Plague (Thucydides)
 - 30 Years War
-- COVID-10
+- COVID-19
 
 ### What happened
 
@@ -19,4 +19,4 @@ tags: MOC
 
 ### Philosophical responses
 Kant's response: use scientific knowledge to learn earthquakes (Wrote a book on the nature of Earthquakes)
-Voltaire's response: this is awful (wrote poem on it, then mentioned in [[Candide]])
+Voltaire's response: this is awful (wrote poem on it, then mentioned in [[Voltaire, Candide]])

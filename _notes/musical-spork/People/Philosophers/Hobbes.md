@@ -4,7 +4,7 @@ tags: People
 ---
 # Thomas Hobbes
 
-Wrote [[Leviathan]]
+Wrote [[Hobbes, Leviathan]]
 	
 	
 Do people have the natural ability to be good? Hobbes -> no

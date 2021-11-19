@@ -5,7 +5,7 @@ tags: People
 
 # Voltaire
 
-- Voltaire was responding to philosophers, Kant, in writing [[Candide]]
+- Voltaire was responding to philosophers, Kant, in writing [[Voltaire, Candide]]
 - did he have a positive philosophy?
 	- what is the good, τελος?
 - what was Voltaire saying about El Dorado?

@@ -10,7 +10,7 @@ tags: People
 - educated at Univ of Paris
 - Catholic Christian
 - not an academic
-- wrote [[Meditations of First Philosophy]] from a [[Rationalism|rationalistic]] perspective
+- wrote [[Descartes, Meditations of First Philosophy]] from a [[Rationalism|rationalistic]] perspective
 	- claims he is making a whole new start in philosophy
 	- D. arrived at a certain and evident knowledge of the truth. He wants to see if he can persuade others by the same method that he himself used.
 	- wrote it to unbelievers & skeptics. 

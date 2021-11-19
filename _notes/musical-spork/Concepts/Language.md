@@ -5,7 +5,7 @@ tags: Concepts
 # Language
 
 ### [[Reid]]'s Opinion on Language
-"By language I understand all those signs which mankind use in order to communicate to others their thougths and intentions, their purposes and desires." ([[Enquiry Concerning Human Understanding]], pg 32)
+"By language I understand all those signs which mankind use in order to communicate to others their thougths and intentions, their purposes and desires." ([[Hume, Enquiry Concerning Human Understanding]], pg 32)
 
 Types of language
 - 1) signs w/ no meaning except that assigned through a previous agreement (artificial)

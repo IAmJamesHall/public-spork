@@ -5,7 +5,8 @@ tags: People
 
 # David Hume
 
-Wrote [[Enquiry Concerning Human Understanding]]
+Wrote [[Hume, Enquiry Concerning Human Understanding]]
+Wrote a History of England
 
 ### Bkgrd Info
 - 1711-1776
@@ -48,7 +49,7 @@ Everything in the mind is either impressions or ideas.
 - impressions and ideas are the only thing that exists in the mind
 - constant conjunction
 	- I have experienced these things together in the past, so I expect them together in the future
-	- "after the constant conjunction of two objects, heat and flame, for instance...we are determined by custom alone to expect the one from the appearance fo the other." -Ch 5, para 5 [[Enquiry Concerning Human Understanding]]
+	- "after the constant conjunction of two objects, heat and flame, for instance...we are determined by custom alone to expect the one from the appearance fo the other." -Ch 5, para 5 [[Hume, Enquiry Concerning Human Understanding]]
 	- works well for ordinary life, but not so well for extraordinary things like [[Miracles]]
 - cause & effect are only in the mind
 	- there is some underlying, unknowable force that is behind the cause/effect
@@ -61,5 +62,9 @@ Everything in the mind is either impressions or ideas.
 - very empericist
 	- every idea must come from an impression
 - Hume downplays the impact of his position
+
+
+#### Math
+For his philosophy on math, see my paper in Delvings: [[Hume - Final Paper]]
 	
 	

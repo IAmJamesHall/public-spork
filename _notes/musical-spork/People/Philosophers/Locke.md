@@ -3,10 +3,10 @@ title: Locke
 tags: People
 ---
 # John Locke
-- [[Two Treatises of Government]]
+- [[Locke, Two Treatises of Government]]
 - [[MOC - Modern Philosophers#Hobbes vs Locke|Comparison w/ Hobbes]]
 
-[[Two Treatises of Government]]
+[[Locke, Two Treatises of Government]]
 
 ### Background Info
 - 1632-1704
@@ -38,4 +38,4 @@ tags: People
 	1. everything is relative
 11. Reason is manipulating existing ideas
 12. Thinking = recalling & manipulating existing ideas
-13. SIDE NOTE: In crafting his [[Two Treatises of Government\|idea of the State of Nature]], Locke did not think it necessary to rely on the senses
+13. SIDE NOTE: In crafting his [[Locke, Two Treatises of Government\|idea of the State of Nature]], Locke did not think it necessary to rely on the senses

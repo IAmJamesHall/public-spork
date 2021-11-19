@@ -29,6 +29,6 @@ title: Shakespeare
 	- because Shakespeare wouldn't be debauched, he outlasted them
 
 
-![[Merchant of Venice]]
+![[Shakespeare, Merchant of Venice]]
 
 

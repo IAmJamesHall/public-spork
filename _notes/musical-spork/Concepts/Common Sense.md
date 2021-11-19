@@ -6,7 +6,7 @@ tags: Concepts
 
 *What is the nature of common sense?*
 *Is it the same thing as [[Intuition]]?*
-- can common sense contradict itself? [[#Contradictions]]
+- can common sense contradict itself? [[Common Sense#Contradictions\|Contradictions]]
 
 
 ### Reid 

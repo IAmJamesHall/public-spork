@@ -1,28 +1,9 @@
-
 ---
-title: Ptolemy
-tags: 
+title: Ptolemy - Method of Science
+tags: Delvings
 ---
 
-# Claudius Ptolemy
-### Background Info
-- 85-165 AD
-- in the tradition of Eudoxus & Hipparchus (3-5c earlier)
-
-
-Might have thought astronomy not to determine the true position of the stars, but to calculate positions for astrology.
-
-What does he mean by hypothesis? -> educated conjecture
-does he think his theory is true?
-- do the hypotheses give us calculations or reality?
-- I think he's aiming for reality
-
-Ptolemaic (geocentric) method of navigation was used to find position at sea throughout the 1960s
-
-
-
-<<<<<<< HEAD
-### Ptolemy - Method of Science
+# Ptolemy - Method of Science
 Ptolemy lived in the second century AD and wrote the first extant treatise on the heavens. How did he arrive at conclusions about something that is so complex and intangible? He must have taken his limited observations and done something with them. Now, how does he use these observations? That is, does he primarily use deduction (drawing a necessary conclusion from premises), induction (drawing a likely conclusion from statistics), or abduction (drawing the most likely conclusion from the situation) . This paper will argue that he used a mixture of deduction and abduction, but did not make use of induction.
 
 The *Almagest* starts with a preface, and in this preface Ptolemy lays the foundations for his science. Namely, he talks about the philosophers before him who influenced how he thought about science. The most notable of those was Aristotle, and one of Ptolemy's first arguments was directly drawn from that worthy man. The argument was that since there is motion, there must have been some first mover. This is an example of deduction; the assumed premises are "All things that move must have a cause" and "At some point, the universe began moving." And from these premises he draws the conclusion that something must have caused the universe to begin moving. And this first cause he names an "invisible and motionless deity," quite in keeping with the Greek idea. 
@@ -32,5 +13,3 @@ So, Ptolemy did use some deduction; however, he prefers to primarily prove point
 This is not a deductive proof, but rather an abductive one. This proof is done by demonstrating that there are no other likely explanations that could fit the evidence. However, this proof is not 100% certain. There could be some other possible explanation that Ptolemy did not consider. Instead of wasting his time considering every single possible explanation, however, Ptolemy chose to demonstrate that his was the most likely of them. Because his goal was simply to show what the most reasonable and likely explanation was, he chose to use abduction.
 
 In conclusion, in his *Almagest*, Ptolemy primarily used abduction, with a little bit of deduction thrown in to prove certain elements. 
-
-

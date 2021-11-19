@@ -6,9 +6,11 @@ tags: Concepts
 # Truth
 > "What is truth?" - Pontius Pilate
 
+"As for certain truth, no man has known it, nor will he know it." - Xenophanes
+
 ### Hume on Truth
 #### Times He Mentioned Truth
-(Taken from [[Enquiry Concerning Human Understanding\|Enquiry]])
+(Taken from [[Hume, Enquiry Concerning Human Understanding\|Enquiry]])
 - truth & falsehood exist (1.14)
 - some truths are knowable (1.14)
 - his goal in enquiry seems to be truth (1.17)

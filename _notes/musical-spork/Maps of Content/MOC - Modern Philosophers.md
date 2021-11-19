@@ -41,7 +41,9 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Berkeley]]  | 1685-1753 | writing against material science; everything an idea in the mind of God   |
 | [[Reid]]      | 1710-1796 | common sense philosopher who responded to ideal theory                    |
 | [[Hume]]      | 1711-1776 | took ideal theory to its logical conclusion                               |
+| [[Smith]]     | 1723-1790 |                                                                           |
 | [[Kant]]      | 1724-1804 |                                                                           |
+| [[Malthus]]   | 1766-1834 | population exploded around 1800; his response                             |
 
 
 
@@ -53,12 +55,14 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | Freedom of a Christian                     | [[Luther]]    | 1520      |
 | Institutes                                 | [[Calvin]]    | 1536      |
 | Novum Organum                              | [[Bacon]]     | 1620      |
-| [[Meditations of First Philosophy]]        | [[Descartes]] | 1641      |
-| [[Leviathan]]                              | [[Hobbes]]    | 1651      |
+| [[Descartes, Meditations of First Philosophy]]        | [[Descartes]] | 1641      |
+| [[Hobbes, Leviathan]]                              | [[Hobbes]]    | 1651      |
 | Vacuum Experiments                         | [[Pascal]]    | 1663      |
-| [[Two Treatises of Government]]            | [[Locke]]     | 1690      |
-| [[Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
+| [[Locke, Two Treatises of Government]]            | [[Locke]]     | 1690      |
+| [[Hume, Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
 | [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
+| [[Smith, Wealth of Nations]]                      | [[Smith]]     | 1776      |
+| [[Malthus, Essay on the Principle of Population]]   | [[Malthus]]   | 1798      | 
 
 ### Rationalists vs Empiricists
 #### Rationalists
