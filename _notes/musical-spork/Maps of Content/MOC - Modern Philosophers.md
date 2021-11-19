@@ -61,6 +61,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Locke, Two Treatises of Government]]            | [[Locke]]     | 1690      |
 | [[Hume, Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
 | [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
+<<<<<<< HEAD
 | [[Smith, Wealth of Nations]]                      | [[Smith]]     | 1776      |
 | [[Malthus, Essay on the Principle of Population]]   | [[Malthus]]   | 1798      | 
 
