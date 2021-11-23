@@ -25,7 +25,7 @@ Also shift from *agrarian* to *manufacturing*
 - populations had recovered to pre-black death levels
 	- so increase in demand, which drove tech development
 	- supply of goods short
-- most powerful institutions in cities: guilds
+- most powerful institutions in cities: guilds (similar to our modern Am. Med. Assoc. or lawyer's bar, or colleges)
 	- controlled # of workers
 	- ensured high costs by limiting production
 	- but rural not regulated by them

@@ -50,20 +50,19 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 
 ### Timeline of Philosophical Works
 
-| Title                                      | Author        | Published |
-| ------------------------------------------ | ------------- | --------- |
-| Freedom of a Christian                     | [[Luther]]    | 1520      |
-| Institutes                                 | [[Calvin]]    | 1536      |
-| Novum Organum                              | [[Bacon]]     | 1620      |
-| [[Descartes, Meditations of First Philosophy]]        | [[Descartes]] | 1641      |
-| [[Hobbes, Leviathan]]                              | [[Hobbes]]    | 1651      |
-| Vacuum Experiments                         | [[Pascal]]    | 1663      |
+| Title                                             | Author        | Published |
+| ------------------------------------------------- | ------------- | --------- |
+| Freedom of a Christian                            | [[Luther]]    | 1520      |
+| Institutes                                        | [[Calvin]]    | 1536      |
+| Novum Organum                                     | [[Bacon]]     | 1620      |
+| [[Descartes, Meditations of First Philosophy]]    | [[Descartes]] | 1641      |
+| [[Hobbes, Leviathan]]                             | [[Hobbes]]    | 1651      |
+| Vacuum Experiments                                | [[Pascal]]    | 1663      |
 | [[Locke, Two Treatises of Government]]            | [[Locke]]     | 1690      |
-| [[Hume, Enquiry Concerning Human Understanding]] | [[Hume]]      | 1739      |
-| [[Inquiry & Essays]]                       | [[Reid]]      | 1764      |
-<<<<<<< HEAD
+| [[Hume, Enquiry Concerning Human Understanding]]  | [[Hume]]      | 1739      |
+| [[Inquiry & Essays]]                              | [[Reid]]      | 1764      |
 | [[Smith, Wealth of Nations]]                      | [[Smith]]     | 1776      |
-| [[Malthus, Essay on the Principle of Population]]   | [[Malthus]]   | 1798      | 
+| [[Malthus, Essay on the Principle of Population]] | [[Malthus]]   | 1798      |
 
 ### Rationalists vs Empiricists
 #### Rationalists

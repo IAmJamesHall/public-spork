@@ -11,11 +11,11 @@ tags: Books
 - it is human nature to exchange, which leads to DoL
 - when productivity goes up, wealth of the nation goes up
 	- is wealth (of nations) the best ultimate goal?
-- is he suggesting this system, or only explaining an existing system?
-	- so he's recommending Division of Labor as a benefit to a nation
-	- productivity leads to wealth (money, goods)
+- *is he suggesting this system, or only explaining an existing system?* (prescriptive or descriptive)
+	- maybe he's recommending Division of Labor as a benefit to a nation
+		- productivity leads to wealth (money, goods)
 - what makes a nation wealthy?
-- is this moral philosophy or economics?
+- *is this moral philosophy or economics?*
 - deals are always based on self-interest, not pity
 	- that's why we exchange; value others things more than my own
 	- does benevolence have a role?

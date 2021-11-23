@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-tags: Books
+tags: 
 ---
 
 # <% tp.file.title %>

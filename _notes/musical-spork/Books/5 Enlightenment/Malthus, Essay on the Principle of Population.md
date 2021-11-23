@@ -23,7 +23,8 @@ Written by [[Malthus]]
 	- "dependent poverty ought to be held disgraceful" (Ch 5, pg 40)
 		- is it better to die w/ dignity than to lose one's honor? (see Isabelle from [[Measure for Measure]])
 - does Malthus care about people?
-	- prefers the benefit of society over the benefit of individuals
+	- seems to prefers the benefit of society over the benefit of individuals
+	- 
 - *should there be a safety net for poor people?*
 	- temporary? / permanent?
 	- run by the church?
