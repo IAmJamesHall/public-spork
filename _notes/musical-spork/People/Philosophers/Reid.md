@@ -4,7 +4,7 @@ title: Reid
 ---
 
 # Thomas Reid
-[[Inquiry & Essays]]
+[[Reid, Inquiry & Essays]]
 
 ### Bkgrd info
 - 1710-1796

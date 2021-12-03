@@ -8,6 +8,8 @@ tags: Concepts
 
 "As for certain truth, no man has known it, nor will he know it." - Xenophanes
 
+How to choose between competing theories (hypotheses) that both explain at least some of the observations?
+
 ### Hume on Truth
 #### Times He Mentioned Truth
 (Taken from [[Hume, Enquiry Concerning Human Understanding\|Enquiry]])

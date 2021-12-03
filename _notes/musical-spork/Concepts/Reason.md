@@ -12,7 +12,7 @@ title: Reason
 	- what is reason?
 		- a type of thinking?
 - can you only accept what has been proven by reason?
-- reason is like a telescope: it lets us see things clearer; but it must have something to point at (analogy loosely taken from [[Inquiry & Essays]], pg 58)
+- reason is like a telescope: it lets us see things clearer; but it must have something to point at (analogy loosely taken from [[Reid, Inquiry & Essays]], pg 58)
 - Descartes makes heavy use of reason in his [[Descartes, Meditations of First Philosophy]]
 
 - what is reason?

@@ -1,8 +1,8 @@
 ---
-title: Inquiry & Essays
+title: Reid, Inquiry & Essays
 tags: Books
 ---
-# Inquiry & Essays
+# Reid, Inquiry & Essays
 Author: Thomas [[Reid]]
 
 ![[Reid#Philosophy]]

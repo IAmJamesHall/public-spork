@@ -11,7 +11,7 @@ tags: Concepts
 
 ### Reid 
 - Common Sense precedes [[Reason]]
-- **principles of common sense**: "certain principles...which the constitution of our nature leads us to believe, and which we are under a necessity to take for granted in the common concerns of life, without being able to give a reason for them." ([[Inquiry & Essays]], pg 20)
+- **principles of common sense**: "certain principles...which the constitution of our nature leads us to believe, and which we are under a necessity to take for granted in the common concerns of life, without being able to give a reason for them." ([[Reid, Inquiry & Essays]], pg 20)
 
 
 ### Contradictions
