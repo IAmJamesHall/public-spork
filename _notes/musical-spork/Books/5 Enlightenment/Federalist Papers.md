@@ -37,5 +37,11 @@ biggest risk to gov: tyrannical control
 Conflict between trying to be big essential units (so that you can have power) and trying to have small ones (so that you can respond to local issues)
 
 
+### Where could we go from our current divided politics
+1. Continue to exascerbate differences, leading to violence
+2. as a culture, step back from our partisanship
+3. unite against a common enemy (9/11, covid?, a war)
+
+
 ### Summary
 The Federalist papers extoll the benefits of the new Constitutional system. The first paper introduces the topic, and asks the reader to give the arguments some reasoned thought. The second paper argues that the colonies are already united: they share a language, enemies, priorities, and more. Then in the third paper he takes this a step further by exploring the potential relationship between the Union and foreign countries, and how this unified relationship would be better than having each of the individual states develop their own relationship with foreign powers. The tenth paper talks about factions and how they are detrimental to freedom. He proposes this republic constitutional system as being the best method for reducing the power of these factions. Finally, the Constitution lays out the plan for the new government, and the Declaration of Independence announces their intention to and reasons for separating from Britain to the world.

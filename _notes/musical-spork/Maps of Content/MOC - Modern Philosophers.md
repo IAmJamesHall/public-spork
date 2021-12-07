@@ -29,21 +29,22 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 
 ### Timeline of Philosophers
 
-| Name          | Dates     | Philosophy                                                                |
-| ------------- | --------- | ------------------------------------------------------------------------- |
-| [[Luther]]    | 1483-1546 |                                                                           |
-| [[Calvin]]    | 1509-1564 |                                                                           |
-| [[Bacon]]     | 1561-1626 | very empiricist                                                           |
-| [[Hobbes]]    | 1588-1679 |                                                                           |
-| [[Descartes]] | 1596-1650 | claims to make a whole new start in philosophy                            |
-| [[Pascal]]    | 1623-1662 |                                                                           |
-| [[Locke]]     | 1632-1704 | not starting from a model, build a framework by inducting from the senses |
-| [[Berkeley]]  | 1685-1753 | writing against material science; everything an idea in the mind of God   |
-| [[Reid]]      | 1710-1796 | common sense philosopher who responded to ideal theory                    |
-| [[Hume]]      | 1711-1776 | took ideal theory to its logical conclusion                               |
-| [[Smith]]     | 1723-1790 |                                                                           |
-| [[Kant]]      | 1724-1804 |                                                                           |
-| [[Malthus]]   | 1766-1834 | population exploded around 1800; his response                             |
+| Name           | Dates     | Philosophy                                                                |
+| -------------- | --------- | ------------------------------------------------------------------------- |
+| [[Copernicus]] | 1473-1543 |                                                                           |
+| [[Luther]]     | 1483-1546 |                                                                           |
+| [[Calvin]]     | 1509-1564 |                                                                           |
+| [[Bacon]]      | 1561-1626 | very empiricist                                                           |
+| [[Hobbes]]     | 1588-1679 |                                                                           |
+| [[Descartes]]  | 1596-1650 | claims to make a whole new start in philosophy                            |
+| [[Pascal]]     | 1623-1662 |                                                                           |
+| [[Locke]]      | 1632-1704 | not starting from a model, build a framework by inducting from the senses |
+| [[Berkeley]]   | 1685-1753 | writing against material science; everything an idea in the mind of God   |
+| [[Reid]]       | 1710-1796 | common sense philosopher who responded to ideal theory                    |
+| [[Hume]]       | 1711-1776 | took ideal theory to its logical conclusion                               |
+| [[Smith]]      | 1723-1790 |                                                                           |
+| [[Kant]]       | 1724-1804 |                                                                           |
+| [[Malthus]]    | 1766-1834 | population exploded around 1800; his response                             |
 
 
 

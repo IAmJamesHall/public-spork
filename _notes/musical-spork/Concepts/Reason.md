@@ -19,7 +19,9 @@ title: Reason
 	- knowing something w/o experience
 	- not just logic
 	- can you allow for probabilities in reasoning?
-	
+
+Foundationalism 
+Coherentism
 
 
 
