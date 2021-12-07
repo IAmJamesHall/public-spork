@@ -37,10 +37,16 @@ biggest risk to gov: tyrannical control
 Conflict between trying to be big essential units (so that you can have power) and trying to have small ones (so that you can respond to local issues)
 
 
-### Where could we go from our current divided politics
+### Where could we go from our current divided politics?
 1. Continue to exascerbate differences, leading to violence
 2. as a culture, step back from our partisanship
 3. unite against a common enemy (9/11, covid?, a war)
+
+
+### What is a federal government?
+- a federal gov is a gov divided into levels with individual spheres of governance that the others can't infringe on
+- so calling our national government "federal" is a misnomer
+	- rather, we should call them national, state, and local
 
 
 ### Summary

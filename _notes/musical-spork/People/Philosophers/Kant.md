@@ -19,6 +19,10 @@ Wrote [[Kant, What is Enlightenment?]]
 	- If [[Newton]] is right, then everything is determined. So there must be some underlying noumena below the phenomena
 	- but we also can't talk a/b noumena
 	- if we don't assume the existence of a rational [[God]] who made a rational universe, why would we assume that our mind can coorespond to reality? All we can know is that it works for us.
+- developed transcendental realism
+	- experience is understood through & affected by reason
+- key player in [[Enlightenment]]
+
 
 ### Major Works
 - Epistemology & Metaphysics
@@ -51,4 +55,4 @@ Wrote [[Kant, What is Enlightenment?]]
 
 
 ### Kant's "Copernican Revolution"
-Previously it has been assumed that all of our cognition must conform itself to objects… Let us now, therefore, test whether we do not make better progress on the problems of metaphysics by assuming that objects must conform themselves to our cognition… Matters stand here just as they did for the first thoughts of Copernicus, who, when things did not go well for explaining the celestial motions if he assumed that the entire host of stars rotates about the observer, sought to find whether things might not go better if the had the observer rotate, and by contrast left the stars at rest. (Critique of Pure Reason,
+"Previously it has been assumed that all of our cognition must conform itself to objects… Let us now, therefore, test whether we do not make better progress on the problems of metaphysics by assuming that objects must conform themselves to our cognition… Matters stand here just as they did for the first thoughts of Copernicus, who, when things did not go well for explaining the celestial motions if he assumed that the entire host of stars rotates about the observer, sought to find whether things might not go better if the had the observer rotate, and by contrast left the stars at rest."" (Critique of Pure Reason)

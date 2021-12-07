@@ -34,6 +34,7 @@ tags: People
 8. complex ideas are combined simple ideas (apple)
 9. Memory & personal identity
 	1. Identity (& personality?) is defined by remembrance of ideas
+	2. without memory, no identity
 10. Locke (and Descartes) - Sound, taste, smell, color, heat, cold, which common man thinks are in objects, are in the mind as sensations
 	1. everything is relative
 11. Reason is manipulating existing ideas

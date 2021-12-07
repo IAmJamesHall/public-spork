@@ -36,8 +36,8 @@ Coherentism
 
 
 ### Diff types of Reasoning
-- induction
-- deduction
+- induction (invented by [[Boyle]])
+- deduction (pioneered by [[Aristotle]])
 - [abduction](https://plato.stanford.edu/entries/abduction)
 
 ### Is man essentially a rational animal?

@@ -21,7 +21,7 @@ Written by [[Malthus]]
 	- > "The poor laws of England tend to **depress the general condition of the poor** in these two ways. Their first obvious tendency is to *increase population w/o increasing the food* for its support. **A poor man may marry w/ little or no prospect of being able to support a family in independence** [creating more children]. They may be said therefore in some measure to create the poor which they maintain; and as the provisions of the country must, in consequence of the increased population, be distributed to every man in smaller proportions, be distributed to every man in smaller proportions, it is evident that the labour of those who are not supported by parish assistance will purchase a smaller quantity of provisions than before, and consequently, more of them must be driven to ask for support." (Ch 5, pg 39)
 - wanted to abolish poor laws
 	- "dependent poverty ought to be held disgraceful" (Ch 5, pg 40)
-		- is it better to die w/ dignity than to lose one's honor? (see Isabelle from [[Measure for Measure]])
+		- is it better to die w/ dignity than to lose one's honor? (see Isabelle from [[Shakespeare, Measure for Measure]])
 - does Malthus care about people?
 	- seems to prefers the benefit of society over the benefit of individuals
 	- 

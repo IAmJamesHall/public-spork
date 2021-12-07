@@ -25,7 +25,7 @@ Written by John [[Locke]]
 	- state of war only ends when the offender offers reconciliation or when external judge decides
 - **freedom of men in nature** - to be free from legislative authority of man & only be under natural law
 - **freedom of men under government** - to have a standing rule to live by, shared by all others in the society, & a liberty to follow one's own will in all unprescribed things, and not be subject to an inconstant arbitrary will of another man.
-- **property** - labor gives the right to property
+- **property** - labor gives the right to property (labor + goods = property)
 	- every man has the property of his own body that only he has the right to
 	- if a man gathers acorns, then the acorns become his when he expends work to get them
 		- they cease being common property

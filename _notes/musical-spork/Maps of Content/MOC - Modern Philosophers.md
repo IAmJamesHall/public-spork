@@ -15,10 +15,13 @@ title: MOC - Modern Philosophers
 
 
 ### New Paradigm
-- starting with the Renaissance, the church is no longer the authority: **science is the authority**
+- [[Thirty Years War]] scared them; religion is not the answer
+- starting with the Renaissance, now the church is no longer the authority: **science is the authority**
+- Also, [[Aristotle]] & [[Plato]] are no longer the authority
 - philosophy's goal is to justify the new epistemology of science
 - when epistemology becomes individual, [[Skepticism]] abounds
 - philosophers all asking "how do we know what's true? does science lead to truth?"
+- moving from the religiously focused geocentric theory to the scientifically focused heliocentric theory ([[Copernicus]])
 
 
 
@@ -37,7 +40,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | [[Bacon]]      | 1561-1626 | very empiricist                                                           |
 | [[Hobbes]]     | 1588-1679 |                                                                           |
 | [[Descartes]]  | 1596-1650 | claims to make a whole new start in philosophy                            |
-| [[Pascal]]     | 1623-1662 |                                                                           |
+| [[People/Philosophers/Pascal]]     | 1623-1662 |                                                                           |
 | [[Locke]]      | 1632-1704 | not starting from a model, build a framework by inducting from the senses |
 | [[Berkeley]]   | 1685-1753 | writing against material science; everything an idea in the mind of God   |
 | [[Reid]]       | 1710-1796 | common sense philosopher who responded to ideal theory                    |
@@ -58,7 +61,7 @@ How can we have a social contract w/o becoming rule of the majority? What can a 
 | Novum Organum                                     | [[Bacon]]     | 1620      |
 | [[Descartes, Meditations of First Philosophy]]    | [[Descartes]] | 1641      |
 | [[Hobbes, Leviathan]]                             | [[Hobbes]]    | 1651      |
-| Vacuum Experiments                                | [[Pascal]]    | 1663      |
+| Vacuum Experiments                                | [[People/Philosophers/Pascal]]    | 1663      |
 | [[Locke, Two Treatises of Government]]            | [[Locke]]     | 1690      |
 | [[Hume, Enquiry Concerning Human Understanding]]  | [[Hume]]      | 1739      |
 | [[Reid, Inquiry & Essays]]                              | [[Reid]]      | 1764      |
