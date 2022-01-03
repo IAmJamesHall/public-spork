@@ -11,11 +11,14 @@ Some of the things that he knows are wrong, and he wants to know which ones.
 
 ![[Descartes#Background Info]]
 
+
+
+
 ### Summary of the Argument
 - I exist as an imperfect, thinking thing
 	- "a thing that doubts, understands, affirms, denies, wills, abstains from willing, that also can be aware of images and sensations." (p. 36)
 - I cannot trust my senses
-- I am not perfect (complete), but because I know that, I also know that perfection must exist 
+- I am not perfect (complete), but because I know that, I also know that perfection must exist
 - God must have made me, along with the idea of God
 - Since I can conceive of a perfect thing, but I am not myself perfect, that idea of a perfect thing must have come from something outside of me (God)
 	- all ideas have to come from something that is as perfect as it is
