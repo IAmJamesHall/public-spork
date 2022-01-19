@@ -39,7 +39,7 @@ title: Leviathan
 - all men have equal experience, because they all have equal time
 - equality of ability -> the desire of equality of outcomes (equality of hope)
 	- every man desires dominion over others unless there is a common power to keep them all in check
-- there are no inherent [[Morals]] 
+- there are no inherent [[Morality]] 
 - this sort of life is "solitary, poor, nasty, brutish, short"
 - men are at war when they each hold their Right of Nature. But if they mutually agree to lay down this Right, then they can be at peace [[#The Leviathan]]
 	- no man can lay down his right to save himself from death, wounds, or imprisonment

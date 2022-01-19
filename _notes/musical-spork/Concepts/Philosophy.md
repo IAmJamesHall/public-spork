@@ -8,9 +8,11 @@ title: Philosophy
 How the Great Conversation works: [[Great Conversation]]
 Abuse of power often leads to philosophical change
 
+When reading a philosopher, ask what problem he is trying to solve, and whether his solution would work
+
 
 ### The Major Questions
-- whad do I know?
+- what do I know?
 - how do I know that?
 - can a man know God / transcendent things?
 	- or can we know the physical world?

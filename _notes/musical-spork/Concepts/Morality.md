@@ -3,7 +3,7 @@ tags: Concepts
 title: Morals
 ---
 
-# Morals
+# Morality
 
 **Where does morality come from?**
 - leviathan makes the laws? (wrong = illegal) [[Hobbes]]
