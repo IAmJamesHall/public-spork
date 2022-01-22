@@ -55,7 +55,7 @@ tags: Concepts
 - virtue = excellence
 - focusing on living a good life
 
-### [[Sartre\|Jean-Paul Sartre]] (1905-1980)
+### Jean-Paul Sartre (1905-1980)
 1. The existentialist ... finds it extremely embarrassing that God does not exist, for there disappears with Him all possibility of finding values in an intelligible heaven. There can no longer by any good [existing prior to humans], since there is no infinite and perfect consciousness to think it. It is nowhere written that "the good" exists, that one must be honest or must not lie, since we are now upon the plane where there are only men. Dostoevsky once wrote: "If God did not exist, everything would be permitted"; and that, for existentialism, is the starting point.
 2. When we think of God as the creator, we are thinking of him, most of the time, as a supernal artisan. Whatever doctrine we may be considering, ... we always imply that the will follows, more or less, from the understanding or at least accompanies it, so that when God creates he knows precisly what he is creating. Thus, the conception of man iin the mind of God is comparable to that oof the paper-knife in the mind of the artisan: God makes man according to a procedure and a conception, exactly as the artisan manufactures a paper-knife, following a definition and a formula. Thus each individual man is the realization of a certain conception which dwells in the divine understanding.
 

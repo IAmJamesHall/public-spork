@@ -1,6 +1,6 @@
 ---
 title: Russia
-tags: Geography
+tags: Places
 ---
 
 # Russia

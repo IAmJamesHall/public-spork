@@ -1,5 +1,5 @@
 ---
-tags: Geography
+tags: Places
 title: Holland
 ---
 
