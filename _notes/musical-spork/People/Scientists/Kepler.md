@@ -1,6 +1,6 @@
 ---
 title: Kepler
-tags: Person
+tags: People
 ---
 
 # Kepler
