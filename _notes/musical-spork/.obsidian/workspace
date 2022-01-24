@@ -9,42 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps of Content/MOC - Ancient Literature.md",
+            "file": "Books/6 Modern Age/Hegel, Intro to Philosophy of History.md",
             "mode": "source",
             "source": true
           }
         }
-      },
-      {
-        "id": "33e90181cf552120",
-        "type": "split",
-        "children": [
-          {
-            "id": "9b32fe8228bf4150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/1 Greeks/Sophocles, Oedipus Rex.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "639d8e4d0d526e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/2 Romans/Tacitus, Annals of Imperial Rome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -56,6 +25,7 @@
       {
         "id": "8e0b38365e3d081f",
         "type": "tabs",
+        "dimension": 77.77777777777779,
         "children": [
           {
             "id": "7d4f21f14f75b5a3",
@@ -81,6 +51,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "6a41fcdfa1ebf08b",
+        "type": "tabs",
+        "dimension": 22.22222222222222,
+        "children": [
+          {
+            "id": "cbc72f237338877d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/6 Modern Age/Hegel, Intro to Philosophy of History.md"
+              }
+            }
+          },
+          {
+            "id": "de8cbd4eab9c1087",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/6 Modern Age/Hegel, Intro to Philosophy of History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,33 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de8cbd4eab9c1087",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Maps of Content/MOC - Ancient Literature.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cbc72f237338877d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Maps of Content/MOC - Ancient Literature.md"
-              }
-            }
-          },
-          {
             "id": "3920fc494b7c99ab",
             "type": "leaf",
             "state": {
@@ -129,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,6 +115,7 @@
   },
   "active": "6fd7a6bf32bce6a3",
   "lastOpenFiles": [
+    "Books/6 Modern Age/Hegel, Intro to Philosophy of History.md",
     "Maps of Content/MOC - Ancient Literature.md",
     "Books/2 Romans/Lucretius, The Nature of Things.md",
     "Books/1 Greeks/Sophocles, Oedipus Rex.md",
@@ -147,7 +124,6 @@
     "Books/1 Greeks/Hesiod, Works & Days.md",
     "Books/1 Greeks/Gilgamesh.md",
     "Books/1 Greeks/Enuma Elish.md",
-    "Books/1 Greeks/Aristophanes, The Clouds.md",
-    "Books/1 Greeks/Aeschylus, Agamemnon.md"
+    "Books/1 Greeks/Aristophanes, The Clouds.md"
   ]
 }
