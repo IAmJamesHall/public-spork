@@ -1,4 +1,4 @@
- ---
+---
 title: Rousseau, Social Contract
 tags: Books
 ---

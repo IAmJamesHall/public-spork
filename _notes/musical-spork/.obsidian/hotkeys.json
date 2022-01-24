@@ -1,0 +1,30 @@
+{
+  "templater-obsidian:Templates/Web item.md.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:Templates/Web item.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ]
+}

@@ -4,6 +4,10 @@ tags: Books
 ---
 
 # Thucydides, History of the Peloponnesian War
+[Britannica link](https://www.britannica.com/biography/Thucydides-Greek-historian)
+
+- Wrote a history of the [[Peloponnesian Wars]] between Athens & Sparta
+- In 424, Thucydides commanded a fleet in the Athenian navy, but failed in a key battle, so was exiled
 
 ## Summary
 ### Pericles' Funeral Oration

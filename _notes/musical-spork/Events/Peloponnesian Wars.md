@@ -4,6 +4,15 @@ tags: Events
 ---
 
 # Peloponnesian Wars
+
+[Britannica link](https://www.britannica.com/event/Peloponnesian-War)
+
+**Notes:**
+- 431-404 BC
+- [[Thucydides, History of the Peloponnesian War\|Thucydides]] fought in this war
+
+
+
 1) who are the sides?
 	1) Athens (with the Delian League) & Sparta (Peloponnesian League)
 2) underlying issues?

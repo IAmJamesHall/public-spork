@@ -4,6 +4,12 @@ tags: People
 ---
 # Aristotle
 
+### Books
+- [[Aristotle, Poetics\|Poetics]]
+- [[Aristotle, Nichomachean Ethics\|Nicomachean Ethics]]
+- [[Aristotle, Categories\|Categories]]
+- among many others
+
 
 ### Aristotle's Paradigm (Middle Ages bkgrd)
 - Matter is eternal and exists w/o forms

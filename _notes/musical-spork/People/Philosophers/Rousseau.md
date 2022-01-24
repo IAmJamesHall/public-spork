@@ -4,4 +4,4 @@ tags: People
 ---
 
 # Rousseau
-### Summary
+Wrote [[Rousseau, Social Contract\|The Social Contract]]
