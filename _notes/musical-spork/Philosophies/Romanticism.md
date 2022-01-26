@@ -4,6 +4,10 @@ tags: Philosophies
 ---
 # Romanticism
 
+## Proponents
+- [[Schopenhauer]]
+- [[Hegel]]
+
 ## Lecture Notes (Dewberry)
 ### Introduction
 - Romanticism is very difficult to define

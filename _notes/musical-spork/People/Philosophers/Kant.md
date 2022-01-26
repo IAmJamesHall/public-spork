@@ -34,6 +34,11 @@ Wrote [[Kant, What is Enlightenment?]]
 - Aesthetics & Teleology
 	- Critique of the Power of Judgement (Third Critique) (1790)
 
+
+### Transcendental Idealism
+- understand the world through structures in your mind
+- [[German Idealism]] grew out of this project
+
 ### Some terms
 - **A posteriori** - based in experience
 - **A priori** - not based in experience
